@@ -4,9 +4,9 @@ Overview:
 This project predicts Customer Lifetime Value (CLV) using machine learning and segments customers for better business decision-making.
 
 Objectives:
-Predict CLV using regression models
-Compare multiple algorithms
-Perform hyperparameter tuning
+Predict CLV using regression models,
+Compare multiple algorithms,
+Perform hyperparameter tuning,
 Segment customers using clustering
 
 Tech Stack:
